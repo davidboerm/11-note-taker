@@ -3,7 +3,7 @@
 [![License: GPL](https://img.shields.io/badge/License-GPL-blue)](https://www.gnu.org/licenses/licenses.html)
 
 ## Description
-  Application to write and save notes using a pre-built frontend and building an Express.js back end, then finally deploying to Heroku.
+  Application to write and save notes using a pre-built frontend, building & connecting an Express.js back end, then finally deploying to Heroku.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
